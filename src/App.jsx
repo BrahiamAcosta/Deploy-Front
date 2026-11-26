@@ -131,7 +131,7 @@ export default function App() {
       <section className="hero">
         <div>
           <p className="eyebrow">TU COLECCIÓN, EN UN SOLO LUGAR</p>
-          <h1>Coleccion de películas</h1>
+          <h1>Biblioteca de películas</h1>
           <p className="hero-copy">
             Accede a tus peliculas y crea nuevas en cualquier momento
           </p>
